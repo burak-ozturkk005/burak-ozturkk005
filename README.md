@@ -10,6 +10,7 @@
 </p>
 <p>
 ### 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=burak-ozturkk005&show_icons=true&theme=radical
+<a href="https://github-readme-stats.vercel.app/api?username=burak-ozturkk005&show_icons=true&theme=radical">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-ozturk-ba24392a0&layout=compact&theme=radical)
 </p>
