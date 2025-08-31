@@ -8,9 +8,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </p>
-<p>
+
+---
+
 ### 📊 GitHub Stats
-<a href="https://github-readme-stats.vercel.app/api?username=burak-ozturkk005&show_icons=true&theme=radical">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-ozturk-ba24392a0&layout=compact&theme=radical)
-</p>
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burak-ozturkk005&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burak-ozturkk005&layout=compact&theme=radical)
