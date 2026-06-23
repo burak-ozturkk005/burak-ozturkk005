@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 💻 Used Languages
+### 💻 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" alt=".NET" height="40" />
